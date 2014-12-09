@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:00:12	123850/123850	U-----	200	untouched ('OK')	text/html	date:Tue,%2009%20Dec%202014%2013:58:29%20GMT	http://earthboundbrands.com/	D:/Logiciels/WinHTTrack/projects/agile/index-2.html	(from )
